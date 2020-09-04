@@ -1,2 +1,16 @@
 # METABRIC_Analysis
-Data visualization and ML algorithm training using the METABRIC breast cancer gene Expression profiles .
+Used data visualization, a 3-layer neural network and other classification algorithms to predict breast cancer survival using a METABRIC dataset from Kaggle ([Link](https://www.kaggle.com/kershtheva/starter-breast-cancer-gene-expression-3925d3a5-5)).
+
+## Resources I used 
+**Python Version**: 3.8.3 <br>
+**Kaggle Database**: [Kaggle](https://www.kaggle.com/raghadalharbi/breast-cancer-gene-expression-profiles-metabric) <br>
+**ML Packages**: [Scikit-Learn](https://scikit-learn.org/stable/), [Keras](https://keras.io/) <br>
+**Literature**: [Medium](https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7), [Keras](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
+
+## Data Cleaning
+
+## EDA
+
+## Model Building
+
+## Strategies for Improvement
