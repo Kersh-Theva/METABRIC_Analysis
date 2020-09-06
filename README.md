@@ -1,6 +1,8 @@
 # METABRIC Analysis: Project Overview
 Used data visualization, a 3-layer neural network and other classification algorithms to predict breast cancer survival using a METABRIC dataset from Kaggle ([Link](https://www.kaggle.com/kershtheva/starter-breast-cancer-gene-expression-3925d3a5-5)).
 
+Full details on the code can be viewed on my public Kaggle notebook (please click [link](https://www.kaggle.comstarter-breast-cancer-gene-expression-3925d3a5-5)). 
+
 ## Resources I used 
 **Python Version**: 3.8.3 <br>
 **Kaggle Database**: [Kaggle](https://www.kaggle.com/raghadalharbi/breast-cancer-gene-expression-profiles-metabric) <br>
