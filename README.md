@@ -13,4 +13,8 @@ Used data visualization, a 3-layer neural network and other classification algor
 
 ## Model Building
 
+|                | Decision Tree | Logistic Regression | Gradient Boosted Trees | Ada Boosted Trees | XGBoost | 3-Layer NN |
+|----------------|:-------------:|:-------------------:|:----------------------:|:-----------------:|:-------:|:----------:|
+| Accuracy Score |      61%      |         59%         |           67%          |       61.5%       |   65%   |     61%    |
+
 ## Strategies for Improvement
