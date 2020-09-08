@@ -42,26 +42,28 @@ Undefined and null values were removed.
 <p align="center">
 <img src="https://github.com/Kersh-Theva/METABRIC_Analysis/blob/master/DeathCorrelatedFactors_Top30.jpg" alt="Test1" width="350" height="600"> 
 </p> <br>
-**Figure 1.**
+
+**Figure 1. Features that have the strongest correlation to death by breast cancer.** A list of the features with the strongest correlation to a survival value of "0" in the METABRIC breast cancer dataset. Factor names are listed on the left and the Pearson correlation coefficient to death is listed on the right. Highest correlations are with patient ID, overall survival (in months), age at diagnosis, tumor size and mutation count.
 
 <p align="center">
 <img src="https://github.com/Kersh-Theva/METABRIC_Analysis/blob/master/SurvivalvsLymphNodes.png" alt="Test1" width="900" height="300"> 
 </p> <br>
-**Figure 2.**
+
+**Figure 2. Overall survival compared to the number of positive lymph nodes.** Boxplot comparing the overall survival (in months) to the number of lymph nodes containing cancer cells. After 10 positively examined lymph nodes, there are almost no cases of surviving cancer, with the exception of some patients with 15 positively examined lymph nodes. Those who died almost always had less than 100 months to live from the start of the study to their death. In comparison, patients who survived would survive for approximately 50 months longer, on average. 
 
 <p align="left">
-<img src="https://github.com/Kersh-Theva/METABRIC_Analysis/blob/master/TopUniqueMutations.png" alt="Test1" width="900" height="300"> 
+<img src="https://github.com/Kersh-Theva/METABRIC_Analysis/blob/master/TopUniqueMutations.png" alt="Test1" width="300" height="450"> 
 </p> <br>
-**Figure 3.**
+**Figure 3. Top 10 genes with the largest number of unique mutations.** A count of the number of unique mutations for each of the 10 genes with the most unique mutations. P53, a well-known oncogene has 212 unique mutations (e.g. deletions, substitutions, insertions) in the METABRIC dataset. <br>
 
 <p align="center">
-<img src="https://github.com/Kersh-Theva/METABRIC_Analysis/blob/master/Treatment%20Correlations.png" alt="Test1" width="900" height="300"> 
+<img src="https://github.com/Kersh-Theva/METABRIC_Analysis/blob/master/Treatment%20Correlations.png" alt="Test1" width="675" height="450"> 
 </p> <br>
+**Figure 4.**
 
 <p align="center">
 <img src="https://github.com/Kersh-Theva/METABRIC_Analysis/blob/master/Treatment%20Survival%20%25.png" alt="Test1" width="900" height="300"> 
 </p> <br>
-**Figure 4.**
 
 <p align="center">
 <img src="https://github.com/Kersh-Theva/METABRIC_Analysis/blob/master/Treatment%20Effectiveness.png" alt="Test1" width="900" height="300"> 
